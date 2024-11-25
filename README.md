@@ -155,9 +155,9 @@ def calcular_score_indicador(datos, rango_tiempo):
 Licencia MIT - Libre para uso personal y comercial
 
 ## 👥 Contacto
-- **Responsable del Proyecto**: [Su Nombre]
-- **Correo Electrónico**: contacto@indicadoresfinancieros.com
-- **LinkedIn**: [Perfil de LinkedIn]
+- **Responsable del Proyecto**: [JUANCITO PENA]
+- **Correo Electrónico**: juancito.pena@gmail.com
+- **LinkedIn**: [https://www.linkedin.com/in/juancitope%C3%B1a/]
 
 ## 🌟 Apoya el Proyecto
 Si encuentras útil este proyecto, por favor:
