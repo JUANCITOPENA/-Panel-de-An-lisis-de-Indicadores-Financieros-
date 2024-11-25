@@ -81,7 +81,7 @@ Este panel interactivo de análisis de indicadores financieros está diseñado p
 ### Pasos de Instalación
 1. Clonar el repositorio
 ```bash
-git clone https://github.com/SuNombre/PanelIndicadoresFinancieros.git
+git  https://github.com/JUANCITOPENA/-Panel-de-An-lisis-de-Indicadores-Financieros-.git
 cd PanelIndicadoresFinancieros
 ```
 
